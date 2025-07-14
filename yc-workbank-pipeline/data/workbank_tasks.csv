@@ -1,0 +1,11 @@
+task_id,occupation,task_description,onet_soc_code
+1,Computer Programmers,"Write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",15-1251.00
+2,Customer Service Representatives,"Interact with customers to provide information in response to inquiries about products and services and to handle and resolve complaints.",43-4051.00
+3,Financial Analysts,"Conduct quantitative analyses of information involving investment programs or consideration of the purchase or sale of securities.",13-2051.00
+4,Software Developers,"Develop, create, and modify general computer applications software or specialized utility programs.",15-1132.00
+5,Market Research Analysts,"Research market conditions in local, regional, or national areas, or gather information to determine potential sales of a product or service.",13-1161.00
+6,Data Scientists,"Develop and implement a set of techniques or analytics applications to transform raw data into meaningful information using data-oriented programming languages and visualization software.",15-2051.01
+7,Sales Representatives,"Sell goods for wholesalers or manufacturers to businesses or groups of individuals.",41-4012.00
+8,Accountants and Auditors,"Examine, analyze, and interpret accounting records to prepare financial statements, give advice, or audit and evaluate statements prepared by others.",13-2011.00
+9,Human Resources Specialists,"Recruit, screen, interview, or place individuals within an organization.",13-1071.00
+10,Web Developers,"Design, create, and modify websites. Analyze user needs to implement website content, graphics, performance, and capacity.",15-1134.00
